@@ -1,4 +1,3 @@
-README.md
-#########
+# README.md
 
-This is a test of a minimal page.
+Dette er en test af en minimal side

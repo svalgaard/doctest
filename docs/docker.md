@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+# Velkommen til en anden side #
 
 _yay_
 
-[back](./)
+[Tilbage igen](./)

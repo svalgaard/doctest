@@ -2,6 +2,6 @@
 layout: default
 ---
 
-This is a test of a minimal page in index.md
+Dette er en test af en minimal side (index.md).
 
-[link to the docker page](./docker.html)
+[link til dockersiden](./docker.html)
