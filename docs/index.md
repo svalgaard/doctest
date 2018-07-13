@@ -4,10 +4,10 @@ layout: default
 
 Dette er en test af en minimal side (index.md).
 
-```bash
+{% highlight console linenos %}
 svalle@cirro:~$ git add
 svalle@cirro:~$ git
-```
+{% endhighlight %}
 
 hej
 
